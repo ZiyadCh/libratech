@@ -1,0 +1,16 @@
+# Build output
+target/
+bin/
+*.class
+
+# IDE
+.classpath
+.project
+.settings/
+.factorypath
+*.launch
+.metadata/
+.intellij/
+.vscode/
+
+.env
