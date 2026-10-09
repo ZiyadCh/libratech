@@ -26,4 +26,5 @@ public abstract class Document {
     this.annee = annee;
 
   }
+  public abstract String getDescription();
 }
